@@ -16,8 +16,6 @@ import org.springframework.web.bind.annotation.RestController;
 import dev.patricksilva.crud.model.Product;
 import dev.patricksilva.crud.services.ProductService;
 
-
-//Api 
 @RestController
 @RequestMapping("/api/products")
 public class ProductController {
