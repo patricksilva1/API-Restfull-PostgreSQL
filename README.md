@@ -1,4 +1,4 @@
-# JAVA + Spring Boot
-Crud created with java + spring boot for demonstration.
+# Java + Spring Boot
+ Crud created with Java + spring boot + PostgreeSQL for demonstration.
 ## DB: PostgreSQL
 >Server Port = 8096
